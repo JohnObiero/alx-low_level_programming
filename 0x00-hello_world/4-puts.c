@@ -1,9 +1,21 @@
-#inlude <stdio.h>
-/* C function that prints a word using put instead of prinft f function */
+#include <stdio.h>
+
+/**
+ *
+ *  * main - my entry point
+ *
+ *   * Description: prints "Programming is like building a multilingual puzzle"
+ *
+ *    * Return: 0
+ *
+ *    */
+
 int main(void)
 
 {
-       puts("\""Programming is like building a multilingual puzzle");
-       return (0);
+
+	puts("\"Programming is like building a multilingual puzzle");
+
+	return (0);
 
 }
