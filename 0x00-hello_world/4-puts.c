@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/* main description
- * program that prints with put
- * not printf
+/**
+ *main-my entry point
+ *Description prints 'programming is a multilingual puzzle'
  * return 0
  */
 int main(void)
