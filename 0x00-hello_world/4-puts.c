@@ -1,21 +1,13 @@
 #include <stdio.h>
 
-/**
- *
- *  * main - my entry point
- *
- *   * Description: prints "Programming is like building a multilingual puzzle"
- *
- *    * Return: 0
- *
- *    */
-
+/* main description
+ * program that prints with put
+ * not printf
+ * return 0
+ */
 int main(void)
-
 {
-
 	puts("\"Programming is like building a multilingual puzzle");
-
 	return (0);
 
 }
