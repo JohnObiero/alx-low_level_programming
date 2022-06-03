@@ -1,21 +1,41 @@
 #include <stdio.h>
-#include <ctype.h>
+
+
+
 /**
- * main - all codes
- * Description:A program that prints alphabets in lowercase,then uppercase followed by a line
+ * main - print alphabet in lower and uppercase
  *
- * Return: 0
+ *
+ * Return: (0) Success
  *
  */
 
 int main(void)
-{
-        char alphabets;
 
-        for (alphabets = 'a'; alphabets <= 'z'; alphabets++)
-        {
-                putchar(alphabets);
-        }
-        putchar('\n');
-        return (0);
+{
+
+	char ch;
+
+
+
+	for (ch = 'a' ; ch <= 'z' ; ch++)
+
+	{
+
+		putchar(ch);
+
+	}
+
+	for (ch = 'A' ; ch <= 'Z' ; ch++)
+
+	{
+
+		putchar(ch);
+
+	}
+
+	putchar('\n');
+
+	return (0);
+
 }
