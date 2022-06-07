@@ -3,22 +3,15 @@
 
 
 /**
+ * add - adds two integers
+ * @n1: integer 1
+ * @n2: integer 2
  *
- *  * add - adds two integers
+ * Description: give two integers, returns sum
  *
- *   * @n1: integer 1
- *
- *    * @n2: integer 2
- *
- *     *
- *
- *      * Description: give two integers, returns sum
- *
- *       *
- *
- *        * Return: sum
- *
- *         */
+ * Return: sum
+
+ */
 
 
 
@@ -26,14 +19,14 @@ int add(int n1, int n2)
 
 {
 
-		int sum;
+	int sum;
 
 
 
-			sum = n1 + n2;
+	sum = n1 + n2;
 
 
 
-				return (sum);
+	return (sum);
 
 }
