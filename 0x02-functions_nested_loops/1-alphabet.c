@@ -5,20 +5,24 @@
 /**
  *print_alphabet - Print the alphabet in lowercase.
  *
- *Return: void.
+ *Return: void.0
  *
  */
-
-
-
-void print_alphabet(void)
-
+void print_alphabet_x10(void)
 {
-	int i;
+		int i = 0;
+		char letter = 'a';
 
-	for (i = 97; i < 123; i++)
-	{
-		_putchar(i);
-	}
-	_putchar('\n');
+		while (i < 10)
+
+		{
+			letter = 'a';
+			while (letter <= 'z')
+			{
+				_putchar(letter);
+				letter++;
+			}
+			_putchar('\n');
+			i++;
+																}
 }
