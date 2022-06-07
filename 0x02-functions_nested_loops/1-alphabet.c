@@ -1,10 +1,9 @@
-#include "main.h"
+#include "holberton.h"
 
 
 
 /**
  *print_alphabet - Print the alphabet in lowercase.
- *
  *
  *Return: void.
  *
@@ -17,8 +16,7 @@ void print_alphabet(void)
 {
 	int i;
 
-	for (i = 0; i < 11; i++)
-
+	for (i = 97; i < 123; i++)
 	{
 		_putchar(i);
 	}
