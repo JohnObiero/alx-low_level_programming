@@ -3,7 +3,7 @@
 
 
 /**
- *Main - file
+ *Main - entry point
  *
  *Description:prints _putchar
  *
