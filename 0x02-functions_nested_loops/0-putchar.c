@@ -3,10 +3,10 @@
 
 
 /**
- *main -gives _putchar
+ *main - gives _putchar
  *
  *
- *Description: prints _putchar
+ *Description:prints _putchar
  *
  *
  *
