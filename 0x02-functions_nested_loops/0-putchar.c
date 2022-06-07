@@ -3,7 +3,7 @@
 
 
 /**
- *main - prints _putchar
+ *main -gives _putchar
  *
  *
  *Description: prints _putchar
