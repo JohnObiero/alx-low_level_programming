@@ -1,18 +1,15 @@
 #include "main.h"
 
-
-
 /**
- *Main - entry point
+ *main - prints _putchar
  *
- *Description:prints _putchar
  *
+ *Description: prints _putchar
  *
  *
  *Return: 0 (Success)
  *
  */
-
 
 
 int main(void)
