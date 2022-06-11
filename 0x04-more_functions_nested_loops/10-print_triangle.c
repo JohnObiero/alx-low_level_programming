@@ -3,13 +3,9 @@
 
 
 /**
-
  * print_triangle -  a function that prints a triangle, followed by a new line.
-
- * @size: An input integer
-
+ * @size: An input intege
  * Return: Always 0
-
  */
 
 void print_triangle(int size)
@@ -53,6 +49,4 @@ void print_triangle(int size)
 	else
 
 		_putchar('\n');
-
 }
-
